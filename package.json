@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Add functionality to our existing Budget Tracker application to allow for offline access and functionality.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,7 +22,14 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
-    "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
-  }
+    "mongoose": "^5.11.16",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-pwa-manifest": "^4.3.0"
+  },
+  "keywords": []
 }
