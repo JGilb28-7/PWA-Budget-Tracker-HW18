@@ -1,3 +1,4 @@
+const totalEl = document.querySelector("#total");
 let transactions = [];
 let myChart;
 
