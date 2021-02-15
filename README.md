@@ -16,12 +16,13 @@ When brought back online:
 ## Demo
 
 ## Repo
-![Repo](https://github.com/JGilb28-7/PWA-Budget-Tracker-HW18.git)
+https://github.com/JGilb28-7/PWA-Budget-Tracker-HW18.git
 
 ## Heroku
-![Deployment](https://pwa-budget-app-tracker.herokuapp.com/)
+https://pwa-budget-app-tracker.herokuapp.com
 
 ## Demo
+![Project PWA18](https://user-images.githubusercontent.com/30843888/107999130-b8ca6380-6fb4-11eb-94e0-2324d408b566.gif)
 
 
 ## List of Resources used for Project
